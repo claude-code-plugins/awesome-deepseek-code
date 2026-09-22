@@ -60,3 +60,5 @@ A curated list of links for anyone working with deepseek code tooling: the Deep 
 ## Contributing
 
 Open a pull request with a link that appears in DeepSeek's or Ollama's own pages and a one-line reason it belongs here.
+
+_Last reviewed: 2026-09-22_
